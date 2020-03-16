@@ -1,4 +1,4 @@
-# Welcome to the Java to C++ Translator
+# Welcome to the Java to C Translator
 
 This program is comprised of three parts.
 
